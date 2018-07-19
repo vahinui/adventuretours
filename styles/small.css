@@ -1,0 +1,38 @@
+@media only screen and (max-width: 599px){
+/*-----NAV-----*/   
+ul.topnav li {float: none;}
+/*-----IMAGES-----*/    
+.h1centered {font-size: 13px}
+
+.pcentered {font-size: 9px}
+    
+/*-----COLUMN-----*/
+.column {
+    float: left;
+    padding: 10px;
+    height: 400px;
+    
+}
+
+.left, .middle {
+    width: 45%;
+}
+
+.right {
+    width: 70%;
+    height: 130px;
+}
+    
+.row {
+    margin: 0px 0px 0px 0px;
+}
+    
+/*-----RECTANGLE-----*/
+.rectangle {
+    margin: 0px 150px 0px ;
+        
+}
+
+
+    
+}

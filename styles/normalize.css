@@ -37,6 +37,30 @@ div.content {
     margin-right: auto;
 }
 
+/*-----INTRODUCTION-----*/
+.img3 {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: 'Graduate', cursive;
+}
+
+.h1centered {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+}
+
+.pcentered {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+}
+
 /*-----CONTENT-----*/
 h1 {
     font-family: 'Encode Sans Semi Condensed', sans-serif;
