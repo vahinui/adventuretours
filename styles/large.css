@@ -1,4 +1,23 @@
 @media only screen and (min-width: 900px){
+    
+    
+/*-----IMAGES-----*/    
+.h1centered {font-size: 40px}
+
+.pcentered {font-size: 20px}
+    
+/*-----COLUMN-----*/
+.column {
+    float: left;
+    padding: 10px;
+    height: 300px;
+    
+}
+
+.row {
+    margin: 0px 0px 0px 70px;
+}
+
 
     
 }

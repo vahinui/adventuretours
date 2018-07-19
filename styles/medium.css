@@ -1,3 +1,30 @@
 @media only screen and (min-width:600px){
     
+/*-----IMAGES-----*/    
+.h1centered {font-size: 20px}
+
+.pcentered {font-size: 10px}
+
+/*-----COLUMN-----*/
+.column {
+    float: left;
+    padding: 10px;
+    height: 500px;
+    
+}
+
+.left, .right {
+    width: 30%;
+}
+
+.middle {
+    width: 30%;
+}
+    
+.row {
+    margin: 0px 0px 0px 0px;
+}
+
+    
+
 }
