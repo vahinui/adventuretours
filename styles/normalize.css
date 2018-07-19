@@ -145,7 +145,29 @@ h1 {
     
 }
 
+/*-----EQUIPEMENT-----*/
+.tableheading {
+    text-align: center;
+    font-weight: bold;  
+    
+}
 
+/*-----TABLE-----*/
+table, tr,td {
+    border: 2px solid grey;
+    border-collapse: collapse;
+    padding: 5px;
+    font-family: 'Graduate', cursive;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+tr:nth-child(even) {
+    background-color: grey;
+    color: white;
+    
+}
 
 /*-----FOOTER-----*/
 .footer {
