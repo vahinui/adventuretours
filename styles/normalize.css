@@ -38,20 +38,87 @@ div.content {
 }
 
 /*-----CONTENT-----*/
-h1, p {
+h1 {
     font-family: 'Encode Sans Semi Condensed', sans-serif;
+    margin-left: 30px;
 }
 
 .category {
     font: 30px;
     letter-spacing: 2px;
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    margin-left: 30px;
+}
+
+.rectangle {
+    background-color: grey;
+    color: white;
+    font-size: 10px;
+    letter-spacing: 1px;
+    padding: 15px 20px 15px 20px;
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    height: 100px;
+    width: 200px;
+    
+    margin: 70px 0px 70px ;
+}
+
+.spacing {
+    line-height: 50%;
+}
+
+.space {
+    line-height: 10px;
+}
+/*------MIDDLE COLUMN-----*/
+
+.h2middle {
+    margin: 70px 0px 0px 0px;
+    font-family: 'Graduate', cursive;
+}
+.button {
+    background-color: red;
+    border-radius: 8px;
+    color: white;
+    font-size: 15px;
+    padding: 5px 15px;
+    border: none;
 }
 
 
+/*-----ROW-----*/
+.column {
+    float: left;
+    padding: 10px;
+    height: 320px;
+    
+}
+
+.left, .right {
+    width: 22%;
+}
+
+.middle {
+    width: 45%;
+}
+
+.row {
+    margin: 0px 0px 0px 70px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    
+}
+
 
 /*-----IMAGE------*/
-img {
-    padding: 70px 20px 70px 50px;
+.tour {
+    display: block;
+    padding: 70px 20px 70px 0px;
+    
 }
 
 
