@@ -94,6 +94,7 @@ h1 {
 .space {
     line-height: 10px;
 }
+
 /*------MIDDLE COLUMN-----*/
 
 .h2middle {
@@ -118,11 +119,11 @@ h1 {
     
 }
 
-.columnleft, .columnright {
+.left, .right {
     width: 22%;
 }
 
-.columnmiddle {
+.middle {
     width: 45%;
 }
 
