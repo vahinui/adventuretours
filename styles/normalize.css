@@ -118,11 +118,11 @@ h1 {
     
 }
 
-.left, .right {
+.columnleft, .columnright {
     width: 22%;
 }
 
-.middle {
+.columnmiddle {
     width: 45%;
 }
 
